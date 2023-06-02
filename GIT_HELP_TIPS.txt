@@ -1,0 +1,13 @@
+Git install
+
+git init    // To init on local
+git clone url    // To clone from a repository on an URL
+git add .    // add change of all the folders to my git
+git commit    // Commit the changes localy
+git push    // Push changes to repo over server
+
+git pull   7Retireve changes
+
+git tag
+
+Get tortoisegit
