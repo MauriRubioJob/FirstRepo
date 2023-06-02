@@ -10,4 +10,10 @@ git pull   7Retireve changes
 
 git tag
 
-Get tortoisegit
+Download and install tortoisegit for windows shortcuts
+Download and install Gitkraken for commit changes
+
+git checkout v1.0   // To check previous version
+git checkout main   // To go back to main
+
+git revert number_of_commit 
